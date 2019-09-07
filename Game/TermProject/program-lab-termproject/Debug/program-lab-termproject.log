@@ -1,0 +1,36 @@
+﻿  game.c
+c:\users\강보훈\desktop\program-lab-termproject\program-lab-termproject\game.c(5): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\강보훈\desktop\program-lab-termproject\program-lab-termproject\game.c(155): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\강보훈\desktop\program-lab-termproject\program-lab-termproject\game.c(190): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\강보훈\desktop\program-lab-termproject\program-lab-termproject\game.c(196): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\강보훈\desktop\program-lab-termproject\program-lab-termproject\game.c(201): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\강보훈\desktop\program-lab-termproject\program-lab-termproject\game.c(203): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\강보훈\desktop\program-lab-termproject\program-lab-termproject\game.c(208): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\강보훈\desktop\program-lab-termproject\program-lab-termproject\game.c(210): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\강보훈\desktop\program-lab-termproject\program-lab-termproject\game.c(220): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\강보훈\desktop\program-lab-termproject\program-lab-termproject\game.c(221): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\강보훈\desktop\program-lab-termproject\program-lab-termproject\game.c(222): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\강보훈\desktop\program-lab-termproject\program-lab-termproject\game.c(226): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\강보훈\desktop\program-lab-termproject\program-lab-termproject\game.c(227): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\강보훈\desktop\program-lab-termproject\program-lab-termproject\game.c(228): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\강보훈\desktop\program-lab-termproject\program-lab-termproject\game.c(231): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\강보훈\desktop\program-lab-termproject\program-lab-termproject\game.c(232): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\강보훈\desktop\program-lab-termproject\program-lab-termproject\game.c(233): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\강보훈\desktop\program-lab-termproject\program-lab-termproject\game.c(234): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\강보훈\desktop\program-lab-termproject\program-lab-termproject\game.c(235): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\강보훈\desktop\program-lab-termproject\program-lab-termproject\game.c(236): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\강보훈\desktop\program-lab-termproject\program-lab-termproject\game.c(237): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\강보훈\desktop\program-lab-termproject\program-lab-termproject\game.c(243): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\강보훈\desktop\program-lab-termproject\program-lab-termproject\game.c(244): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\강보훈\desktop\program-lab-termproject\program-lab-termproject\game.c(245): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\강보훈\desktop\program-lab-termproject\program-lab-termproject\game.c(246): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\강보훈\desktop\program-lab-termproject\program-lab-termproject\game.c(247): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\강보훈\desktop\program-lab-termproject\program-lab-termproject\game.c(248): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\강보훈\desktop\program-lab-termproject\program-lab-termproject\game.c(249): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\강보훈\desktop\program-lab-termproject\program-lab-termproject\game.c(263): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\강보훈\desktop\program-lab-termproject\program-lab-termproject\game.c(264): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\강보훈\desktop\program-lab-termproject\program-lab-termproject\game.c(265): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\강보훈\desktop\program-lab-termproject\program-lab-termproject\game.c(272): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\강보훈\desktop\program-lab-termproject\program-lab-termproject\game.c(273): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\강보훈\desktop\program-lab-termproject\program-lab-termproject\game.c(274): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  program-lab-termproject.vcxproj -> C:\Users\강보훈\Desktop\program-lab-termproject\Debug\program-lab-termproject.exe
